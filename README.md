@@ -10,9 +10,9 @@ The Airline Passenger dataset showcases clear seasonal trends and non-linear gro
 
 ## Models Used
 
-**SARIMA (Seasonal AutoRegressive Integrated Moving Average)**: Suitable for datasets with seasonality, SARIMA is used to model the seasonal aspects effectively.
-**ARIMA (AutoRegressive Integrated Moving Average):** Tested for comparative purposes to highlight its limitations in handling seasonal data.
+- **SARIMA (Seasonal AutoRegressive Integrated Moving Average)**: Suitable for datasets with seasonality, SARIMA is used to model the seasonal aspects effectively.
+- **ARIMA (AutoRegressive Integrated Moving Average):** Tested for comparative purposes to highlight its limitations in handling seasonal data.
 
 ## Key Findings
-**SARIMA's Effectiveness:** SARIMA significantly outperforms ARIMA in forecasting airline passenger numbers due to its ability to model the seasonal variations inherent in the data.
-**Limitations of ARIMA:** ARIMA lacks the capability to handle the seasonality, which is evident from the comparative analysis with SARIMA.
+- **SARIMA's Effectiveness:** SARIMA significantly outperforms ARIMA in forecasting airline passenger numbers due to its ability to model the seasonal variations inherent in the data.
+- **Limitations of ARIMA:** ARIMA lacks the capability to handle the seasonality, which is evident from the comparative analysis with SARIMA.
